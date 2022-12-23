@@ -11,7 +11,7 @@ I am a young English teacher with many technical skills. I am very motivated to 
 * Reporting bugs
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
+Szkolenie Indywidualne tester manualny 23.12.2022
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## RECOMENDED BLOGS
@@ -35,4 +35,4 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 ## MY REPORT
 ## MY REPORT FOR 
 * [Report PDF](https://drive.google.com/drive/folders/1WS8qxFLxJBNfPIyRj5q_eTaXdA4hW0a9?usp=share_link)
-* [Report Excell](https://drive.google.com/drive/folders/11okbWYiZVjtSpmY_t0u25fszmdMP02em?usp=share_link)](https://drive.google.com/drive/folders/1so4wjjgcS-x8MwbC-ignxR6ex_41V3Jz?usp=share_link)
+* [Report Excell](https://drive.google.com/drive/folders/1so4wjjgcS-x8MwbC-ignxR6ex_41V3Jz)
